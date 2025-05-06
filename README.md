@@ -2,20 +2,25 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.6+-green.svg)
-![Last Updated](https://img.shields.io/badge/last%20updated-2025--05--02-brightgreen)
+![Last Updated](https://img.shields.io/badge/last%20updated-2025--05--06-brightgreen)
 
 A Python script to modify key in-game parameters—gold, happiness, and population—in the game **Sort The Court** by directly writing values into the game's memory. This tool leverages the [Pymem](https://github.com/srounet/Pymem) library for memory editing.
+
+## Screenshot
+![Screenshot of Sort The Court Hack Tool](https://github.com/allenmonkey970/SortTheCourt-Hack/blob/main/Screenshot%202025-05-05%20223231.png?raw=true)
 
 ## Features
 
 - **Real-time Modification:** Instantly change gold, happiness, and population values during gameplay.
-- **Simple Configuration:** Easily specify the values you want to set.
+- **Simple Configuration:** Easily specify the values you want to set through the custom values option.
+- **User-friendly Interface:** Intuitive GUI makes it easy to connect to the game and apply cheats.
 - **Open Source:** Modify or extend the script for your own use.
 
 ## Prerequisites
 
 - Python 3.6 or higher
 - [Pymem](https://github.com/srounet/Pymem) library
+- Tkinter (comes with standard Python installation)
 
 ```bash
 pip install pymem
@@ -31,12 +36,14 @@ pip install pymem
     git clone https://github.com/allenmonkey970/SortTheCourt-Hack.git
     cd SortTheCourt-Hack
     ```
-3. **Edit the script** (if needed) to set your desired gold, happiness, or population values.
-4. **Run the script:**
+3. **Run the script:**
     ```bash
     python sortthecourt_hack.py
     ```
-5. **Enjoy your modified stats** in the game.
+4. **Connect to the game** by clicking the "Connect to Game" button.
+5. **Set custom values** by checking "Enable Custom Values" and entering your desired gold, happiness, or population values.
+6. **Start the cheats** by clicking the "Start Cheats" button.
+7. **Enjoy your modified stats** in the game.
 
 ## Important Notes
 
