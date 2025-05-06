@@ -7,7 +7,7 @@
 A Python script to modify key in-game parameters—gold, happiness, and population—in the game **Sort The Court** by directly writing values into the game's memory. This tool leverages the [Pymem](https://github.com/srounet/Pymem) library for memory editing.
 
 ## Screenshot
-![Screenshot of Sort The Court Hack Tool](https://github.com/allenmonkey970/SortTheCourt-Hack/blob/main/Screenshot%202025-05-05%20223231.png?raw=true)
+![Screenshot of Sort The Court Hack Tool](https://github.com/allenmonkey970/SortTheCourt-Hack/blob/main/Screenshot%202025-05-05%20223754.png)
 
 ## Features
 
